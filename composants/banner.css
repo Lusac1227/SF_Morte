@@ -1,0 +1,17 @@
+.banner h1 {
+  color: black;
+  font-size: 80px;
+  font-family: Osward;
+
+}
+.banner h2 {
+  color: black;
+  font-size: 40px;
+  font-weight: lighter;
+  opacity: 0.8;
+}
+.banner {
+  background-image:
+    linear-gradient(-125deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%), url(../../images/strive.jpeg);
+    background-size: cover;
+    background-position: center;
